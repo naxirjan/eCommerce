@@ -20,7 +20,7 @@ This project contain two Sections for different user types.
 
 # System Information
 - Plateform: Web
-- Client Side Technology: HTML, JavaScript, jQUery, CSS, Bootstrap
+- Client Side Technology: HTML, JavaScript, jQuery, CSS, Bootstrap
 - Server Side Technology: PHP
 - Coding Techniques: Object Oriented Programming (OOP), AJAX
 - Database: MySQL
